@@ -7,16 +7,15 @@ import time
 
 #-------------------------settings
 
-
 AUTH_TOKEN = '4/1AX4XfWhvhum_zzzzzzzzzzzj4dbs8xomux70O7M3--ZcXH7QJf9c9skWv7do'
+access_token = 'ya29.zzzzzzzzzzzuEZKkYtHYds3fwkujG1NX3l70Mzdfx03adV661X8spJjByDNTZr0GHyhUBus8ZDgEjjgIUUJrNwkqKcDlFycA5VpCMvRcoslVcte3hTugyYbPkfc7nmKoXn1LTOp7UgXy4WmQNlxMrVo7j-rOYZ'
+refresh_token = '1//0zzzzzzzzzzzfGCgYIARAAGAwSNwF-L9Iro5_V1j_zzzzzzzzzzzjSkZZ87cWQmIEIKxc4r2Xhighv6ImX4dVrFdc780THR9R6IfEU'
+
 APP_NAME = 'com.google.step_count.delta:runner'
 RUNNER_SPEED_steps_s = 2 #max 10
 DELAY_s = 1000
-
 client_secret = 'P_56GvaOnxlRZoIkZiKPNcau'
 client_id = '32727419809-23ou4hs3js29oml2d99v2utug8khb0rj.apps.googleusercontent.com'
-access_token = 'ya29.zzzzzzzzzzzuEZKkYtHYds3fwkujG1NX3l70Mzdfx03adV661X8spJjByDNTZr0GHyhUBus8ZDgEjjgIUUJrNwkqKcDlFycA5VpCMvRcoslVcte3hTugyYbPkfc7nmKoXn1LTOp7UgXy4WmQNlxMrVo7j-rOYZ'
-refresh_token = '1//0zzzzzzzzzzzfGCgYIARAAGAwSNwF-L9Iro5_V1j_zzzzzzzzzzzjSkZZ87cWQmIEIKxc4r2Xhighv6ImX4dVrFdc780THR9R6IfEU'
 dataSourceId = ''
 
 #-------------------------settings
